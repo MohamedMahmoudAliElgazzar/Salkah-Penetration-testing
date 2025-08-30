@@ -77,19 +77,6 @@ Technologies used:
 
 ---
 
-## 📁 Structure
-
-```
-📦 salkah-security
- ┣ 📁 backend
- ┃ ┗ 📜 server.js
- ┣ 📁 frontend
- ┃ ┗ 📜 home.dart, live_tracking.dart
- ┣ 📄 README.md
- ┗ 📄 Penetration_Testing_Report.pdf
-```
-
----
 
 ## 📄 Report
 
