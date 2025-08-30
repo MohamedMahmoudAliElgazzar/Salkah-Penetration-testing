@@ -94,7 +94,7 @@ Technologies used:
 ## 📄 Report
 
 Full security report available in this repo:  
-📎 [Penetration_Testing_Report.pdf]([./Penetration_Testing_Report.pdf](https://github.com/MohamedMahmoudAliElgazzar/Salkah-Penetration-testing/blob/master/Penetration_Testing_Report__Mobile_App_(Flutter__Node.js).pdf))
+📎 [Penetration_Testing_Report.pdf]([blob/master/Penetration_Testing_Report__Mobile_App_(Flutter__Node.js).pdf))
 
 ---
 
